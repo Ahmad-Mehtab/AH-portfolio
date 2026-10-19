@@ -90,8 +90,7 @@ I'm a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, Exp
 <tr>
 <td width="100%" valign="top">
 
-### 🏢 
-**Frontend Developer — Vizz Web Solutions** • *November 2022 – July 2025*
+**Frontend Developer — Vizz Web Solutions** • *November 2022 – July 2025*<br>
 **Software Engineer — Esquall LLC** • *August 2025 – Present* | Full-time (Onsite)
 
 #### 🖥️ Project 1: Stenography Desktop — Real-Time Court Transcription App
